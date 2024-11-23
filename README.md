@@ -19,6 +19,7 @@ As an embedded engineer, I enjoy creating real-time tools that simplify workflow
 
 ## Video Demonstration
 Watch the video to see both applications in action:
+<div>
 <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/X13B3740r2U?si=FozyZ1KXDSlwugJU" 
         title="YouTube video player" 
@@ -26,6 +27,7 @@ Watch the video to see both applications in action:
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen>
 </iframe>
+</div>
 
 ## Final Thoughts
 This project demonstrates the potential of combining software and hardware for real-time engineering applications. Questions or feedback? [Reach out](https://linkedin.com)!
