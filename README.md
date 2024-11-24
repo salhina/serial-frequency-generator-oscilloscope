@@ -13,6 +13,7 @@ This project consists of two main applications:
 - Includes an onboard LED on the ESP32 for real-time visual feedback of the signal.
 
 ![Serial Frequency Generator GUI](assets/images/serial-frequency-generator.png)
+
 *Screenshot of the Serial Frequency Generator application GUI.*
 
 ---
@@ -23,6 +24,7 @@ This project consists of two main applications:
 - Provides engineers with an accessible tool for signal analysis.
 
 ![Arduino Oscilloscope GUI](assets/images/arduino-oscilloscope.png)
+
 *Screenshot of the Arduino Oscilloscope application GUI.*
 
 ---
@@ -31,6 +33,7 @@ This project consists of two main applications:
 The hardware setup connects the ESP32 (for signal generation) and the Arduino Uno (for signal visualization) directly via jumper wires. This simple configuration bridges signal generation and analysis.
 
 ![Live Hardware Setup](assets/images/live-hardware-setup.png)
+
 *Live demonstration of the hardware setup for the project.*
 
 ---
@@ -41,6 +44,7 @@ The hardware setup connects the ESP32 (for signal generation) and the Arduino Un
 - **Saved Data Support**: Analyze saved signals for post-experiment review.
 
 ![Saved Data Visualization](assets/images/saved-data.png)
+
 *Example of saved data visualized in the Oscilloscope GUI.*
 
 ---
