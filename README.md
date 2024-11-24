@@ -9,13 +9,19 @@ As an embedded engineer, I enjoy creating real-time tools that simplify workflow
 - Built with PyQt5, controlling an ESP32.
 - Onboard LED for visual feedback.
 
-![Serial Frequency Generator](assets/images/screenshot1.png)
+![Serial Frequency Generator](assets/images/serial-frequency-generator.png)
 
 ### Arduino Oscilloscope
 - Displays real-time signals received from the generator.
 - Built with PyQt5, using Arduino Uno for data visualization.
 
-![Arduino Oscilloscope](assets/images/fft-ok-3.png)
+![Arduino Oscilloscope](assets/images/arduino-oscilloscope.png)
+
+### Live Simulation of the Hardware Setup
+![Live Simulation](assets/images/web-cam.png)
+
+### Saved Data
+![Saved Data](assets/images/recordings3.png)
 
 ## Video Demonstration
 Watch the video to see both applications in action:
