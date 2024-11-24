@@ -70,7 +70,6 @@ Watch both applications in action in this short demonstration:
 - Arduino IDE
 
 3. **Run the Applications**
-
-   1. Open and run the Serial Frequency Generator application on your PC.
-   2. Upload the Arduino Oscilloscope firmware to your Arduino Uno.
+   - Open and run the Serial Frequency Generator application on your PC.
+   - Upload the Arduino Oscilloscope firmware to your Arduino Uno.
 
