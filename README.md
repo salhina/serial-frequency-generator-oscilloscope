@@ -60,8 +60,7 @@ Watch both applications in action in this short demonstration:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/salhina/serial-frequency-generator-oscilloscope.git
-   cd serial-frequency-generator-oscilloscope
-   
+   cd serial-frequency-generator-oscilloscope   
    ```
    
 2. **Install Dependencies**
