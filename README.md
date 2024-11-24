@@ -18,10 +18,10 @@ As an embedded engineer, I enjoy creating real-time tools that simplify workflow
 ![Arduino Oscilloscope](assets/images/arduino-oscilloscope.png)
 
 ### Live Simulation of the Hardware Setup
-![Live Simulation](assets/images/web-cam.png)
+![Live Simulation](assets/images/live-hardware-setup.png)
 
 ### Saved Data
-![Saved Data](assets/images/recordings3.png)
+![Saved Data](assets/images/saved-data.png)
 
 ## Video Demonstration
 Watch the video to see both applications in action:
