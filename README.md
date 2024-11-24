@@ -15,7 +15,7 @@ As an embedded engineer, I enjoy creating real-time tools that simplify workflow
 - Displays real-time signals received from the generator.
 - Built with PyQt5, using Arduino Uno for data visualization.
 
-![Arduino Oscilloscope](assets/images/screenshot2.png)
+![Arduino Oscilloscope](assets/images/fft ok 3.png)
 
 ## Video Demonstration
 Watch the video to see both applications in action:
