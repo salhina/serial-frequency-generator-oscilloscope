@@ -61,13 +61,16 @@ Watch both applications in action in this short demonstration:
    ```bash
    git clone https://github.com/salhina/serial-frequency-generator-oscilloscope.git
    cd serial-frequency-generator-oscilloscope
+   
    ```
+   
 2. **Install Dependencies**
 - Python 3.8+
 - PyQt5
 - Arduino IDE
 
 3. **Run the Applications**
-  1. Open and run the Serial Frequency Generator application on your PC.
-  2. Upload the Arduino Oscilloscope firmware to your Arduino Uno.
+
+   1. Open and run the Serial Frequency Generator application on your PC.
+   2. Upload the Arduino Oscilloscope firmware to your Arduino Uno.
 
