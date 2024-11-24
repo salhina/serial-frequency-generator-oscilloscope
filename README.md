@@ -61,6 +61,7 @@ Watch both applications in action in this short demonstration:
    ```bash
    git clone https://github.com/salhina/serial-frequency-generator-oscilloscope.git
    cd serial-frequency-generator-oscilloscope
+   ```
 2. **Install Dependencies**
 - Python 3.8+
 - PyQt5
